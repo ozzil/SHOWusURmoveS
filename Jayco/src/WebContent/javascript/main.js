@@ -94,7 +94,7 @@ function setName(obj){
 
  displayInfo({
 	 name:"nico",
-	 age: 29
+	 age: 30
  })
   displayInfo({
 	 name:"Tony"
